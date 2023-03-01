@@ -15,7 +15,7 @@
   color: red !important;
 }
 body {
- background: url("../img/bg1.png");
+ /*background: url("../img/bg1.png"); */
 
 }
 .carousel-item .product-block {
