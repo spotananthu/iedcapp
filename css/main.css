@@ -18,6 +18,10 @@ body {
  /*background: url("../img/bg1.png"); */
 
 }
+
+.align-middle{
+ font-size: 20px;
+}
 .carousel-item .product-block {
   border: 1px solid #222;
   padding: 0px;
