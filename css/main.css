@@ -4,6 +4,17 @@
   margin-bottom: 20px;
   text-align: right; }
 
+  .carousel-control-prev,
+.carousel-control-next{
+      bottom: -85%;
+
+
+}
+.carousel-control-next-icon{
+
+  color: red !important;
+}
+
 .carousel-item .product-block {
   border: 1px solid #222;
   padding: 0px;
